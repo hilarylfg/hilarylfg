@@ -1,4 +1,4 @@
-### <div align="center">Hi, my name is Nikolai, I am a student of the College of Communications No. 54🎓</div>  
+### <div align="center">Hi, I'm Kolya. I am a beginner frontend developer</div>  
   
 
 <br/>  
